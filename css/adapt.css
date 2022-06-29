@@ -1,0 +1,15 @@
+/* @wrapper (max-width:1400px){
+	.wrapper{
+		max-width: 970;
+	}
+}
+@wrapper (max-width:992px){
+	.wrapper{
+		max-width: 750;
+	}
+}
+@wrapper (max-width:767px){
+	.wrapper{
+		max-width: none;
+	}
+} */
